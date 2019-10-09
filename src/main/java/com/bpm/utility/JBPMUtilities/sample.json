@@ -1,0 +1,20 @@
+[{
+	"name": "Algo1",
+	"algoParams": {
+		"param1": "param1Value",
+		"param2": 0.2,
+		"param3": "param3Value",
+		"param4": 4
+	},
+	"preferencePercentage": "47"
+},
+{
+	"name": "Algo1",
+	"algoParams": {
+		"param1": "param1Value",
+		"param2": 0.2,
+		"param3": "param3Value",
+		"param4": 4
+	},
+	"preferencePercentage": "47"
+}]
